@@ -1,0 +1,23 @@
+body{
+   background-image: url(social.jpg);
+}
+.menu{
+    background-color: rgb(227, 227, 227);
+    border-radius: 10px;
+}
+
+#sign-up-form{
+    width: 700px;
+    margin: auto;
+}
+#sign-up, #sign-in{
+    display: none;
+}
+#sign-in-form{
+ width: 400px;
+ height: 320px;
+ margin: auto;
+}
+#profileMenu, #signOutMenu{
+    display: none;
+}
